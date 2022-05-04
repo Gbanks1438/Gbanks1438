@@ -7,4 +7,29 @@
 - 💬 Ask me about my experience learning to code and my journey in becoming a Full Stack Software Engineer.
 - 📫 How to reach me: Please reach out on LinkedIn - https://www.linkedin.com/in/greg-banks/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid hiker. Living in the NorthEast I've had the privilege of exploring the Catskills, the Berkshires, and the Adirondacks. My goal is to summit all 46 of the ADK high peaks; currently I've successfully conquered 5 mountains. I look forward to exploring the Green mountains of VT and the White mountains of NH. One day I hope to take a shot at the Appalachian trail or the Pacific Northwest trail. I will continue to push myself and someday want to climb Mt Rainier as well.
+- ⚡ Fun fact: I'm an avid hiker. Living in the NorthEast, I've had the privilege of exploring the Catskills, the Berkshires, and the Adirondacks.
+
+<table>
+  <tr>
+    <th>JavaScript</th>
+    <th>- HTML -</th>
+    <th>- CSS -</th>
+    <th>- React -</th>
+    <th>Ruby On Rails</th>
+    <th>Postgresql</th>
+    <th>- Heroku -</th>
+    <th>- npm -</th>
+    <th>WordPress</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></td>
+  </tr>
+</table>
