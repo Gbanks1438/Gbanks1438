@@ -1,3 +1,5 @@
+![certificate](Flatiron_School_Certificate.png)
+<br/>
 ![banner](SWE-Banner.png)
 <br/>
 ### Hi there 👋
@@ -11,6 +13,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid hiker. Living in the NorthEast, I've had the privilege of exploring the Catskills, the Berkshires, and the Adirondacks.
 <br/>
+📛 Badges
 <table>
   <tr>
     <th>JavaScript</th>
@@ -35,5 +38,3 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></td>
   </tr>
 </table>
-<br/>
-![certificate](Flatiron_School_Certificate.png)
