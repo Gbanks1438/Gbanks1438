@@ -1,3 +1,5 @@
+![banner](SWE-Banner.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on a new SPA called Nurse&Nappie that tracks and charts the feeding and bathroom behaviors of a newborn baby. 
@@ -33,3 +35,5 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></td>
   </tr>
 </table>
+
+![banner](February 2022 Live Grad_Part20.pdf)
