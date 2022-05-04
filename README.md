@@ -1,5 +1,5 @@
 ![banner](SWE-Banner.png)
-
+<br/>
 ### Hi there 👋
 
 - 🔭 I’m currently working on a new SPA called Nurse&Nappie that tracks and charts the feeding and bathroom behaviors of a newborn baby. 
@@ -10,7 +10,7 @@
 - 📫 How to reach me: Please reach out on LinkedIn - https://www.linkedin.com/in/greg-banks/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid hiker. Living in the NorthEast, I've had the privilege of exploring the Catskills, the Berkshires, and the Adirondacks.
-
+<br/>
 <table>
   <tr>
     <th>JavaScript</th>
@@ -35,5 +35,5 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></td>
   </tr>
 </table>
-
-![banner](February 2022 Live Grad_Part20.pdf)
+<br/>
+![certificate](Flatiron_School_Certificate.png)
