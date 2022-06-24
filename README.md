@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on both front and backend projects that help solve a need in creative new ways.
 - 🤔 I’m looking for help with continuing to grow my development skill sets in a professional environment.
 - 💬 Ask me about my experience learning to code and my journey in becoming a Full Stack Software Engineer.
-- 📫 How to reach me: Please reach out on LinkedIn - https://www.linkedin.com/in/greg-banks/
+- 📫 Check out my Dev portfolio: https://gbanks1438.github.io/devportfolio/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid hiker. Living in the NorthEast, I've had the privilege of exploring the Catskills, the Berkshires, and the Adirondacks.
 <br/>
